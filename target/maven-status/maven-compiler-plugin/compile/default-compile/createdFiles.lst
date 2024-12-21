@@ -1,0 +1,17 @@
+com\mycompany\project\User$Builder.class
+com\mycompany\project\LoginPage$1.class
+com\mycompany\project\AdminPage.class
+com\mycompany\project\Project.class
+com\mycompany\project\QuestionFactory.class
+com\mycompany\project\LoginPage.class
+com\mycompany\project\AdminPageProxy.class
+com\mycompany\project\QuizPage.class
+com\mycompany\project\Question.class
+com\mycompany\project\QuestionPrototype.class
+com\mycompany\project\QuizManager.class
+com\mycompany\project\TrueFalseQuestion.class
+com\mycompany\project\User.class
+com\mycompany\project\QuizData.class
+com\mycompany\project\ScoreManager.class
+com\mycompany\project\MultipleChoiceQuestion.class
+com\mycompany\project\ResultPage.class
